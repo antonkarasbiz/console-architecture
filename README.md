@@ -1,6 +1,10 @@
-# Architecture of Consoles   [![Badge License]][License] [![Button Stylesheet]][Stylesheet] [![Button Translate]][Translate]
+# Console architecture notes
 
-This repo holds the articles that constitute the [Architecture of Consoles] series. It has been made public to enable interested readers to discuss improvements, add translations and possibly more.
+Technical articles on game-console hardware, system software, and the engineering constraints behind modern platforms. Maintained in the [antonkarasbiz](https://github.com/antonkarasbiz) library as systems-design reference material.
+
+[![Badge License]][License] [![Button Stylesheet]][Stylesheet] [![Button Translate]][Translate]
+
+The tree holds the [Architecture of Consoles] series in Pandoc Markdown so readers can review, correct, and translate the material.
 
 This repo is structured as follows:
 
